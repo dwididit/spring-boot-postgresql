@@ -20,7 +20,7 @@ This application is designed to showcase a simple CRUD operation using Spring Bo
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/dwididit/spring-boot-postgresql.git
 ```
 
 Go to the project directory
